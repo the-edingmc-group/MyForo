@@ -1,11 +1,8 @@
-
----------------------------------------
 # MyForo, the best Open-Source Reponsive Forum Software
----------------------------------------
+
 MyForo is a Responsive Open Source Forum Software. This is the **FREE** Version.
 
 **COMMING SOON:** You can Buy the Pro Version on [TheEdingMCShop](https://shop.edingmc.com/)
-
 ---------------------------------------
 
 # Get Started
