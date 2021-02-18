@@ -1,3 +1,6 @@
+<div style="text-align:center"><img src="https://cdn.edingmc.com/myforo/logo_small.png" /></div>
+
+
 # MyForo, the best Open-Source Reponsive Forum Software
 
 MyForo is a Responsive Open Source Forum Software. This is the **FREE** Version.
