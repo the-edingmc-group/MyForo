@@ -8,7 +8,6 @@
 # @Copyright: Copyright (C) 2018-2021 TheEdingMCGroup and EdingMC
 
 // Librarys einbinden //
-require_once './vendor/autoload.php';
 require_once 'config/config.php';
 
 
